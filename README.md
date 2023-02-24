@@ -1,5 +1,4 @@
-# INCREASE
-INCREASE: Inductive Graph Representation Learning for Spatio-Temporal Kriging
+# INCREASE:Inductive Graph Representation Learning for Spatio-Temporal Kriging
 
 This repository is Tensorflow implementation for the WWW23 paper [INCREASE: Inductive Graph Representation Learning for Spatio-Temporal Kriging](https://arxiv.org/abs/2302.02738).
 
