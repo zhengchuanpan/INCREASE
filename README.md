@@ -23,5 +23,5 @@ The in-depth interpretation of this paper is [here](https://mp.weixin.qq.com/s/3
   &emsp;&emsp;url       = {https://doi.org/10.48550/arXiv.2302.02738},  
   &emsp;&emsp;doi       = {10.48550/arXiv.2302.02738},  
   &emsp;&emsp;eprinttype = {arXiv},  
-  &emsp;&emsp;eprint    = {2302.02738},
-}
+  &emsp;&emsp;eprint    = {2302.02738}  
+  &emsp;&emsp;}
