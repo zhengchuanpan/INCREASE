@@ -10,7 +10,7 @@ The in-depth interpretation of this paper is [here](https://mp.weixin.qq.com/s/3
 * The Beijing dataset can be found in this repository under the [/Beijing/data/](Beijing/data) path
 * The Xiamen dataset is still being compiled and will be coming soon
 
-## Result
+## Results
 ![image](figure/result.png)
 
 ## Citation
