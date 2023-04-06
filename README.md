@@ -5,4 +5,7 @@ This repository is Tensorflow implementation for the WWW-23 paper [INCREASE: Ind
 
 The in-depth interpretation of this paper is [here](https://mp.weixin.qq.com/s/30xPLN2N9l_gw5l1OH6ADA) in Chinese.
 
-# DATA
+## DATA
+The METR-LA dataset is available at [Google Drive](https://drive.google.com/open?id=10FOTa6HXPqX8Pf5WRoRwcFnW9BrNZEIX) or [Baidu Yun](https://pan.baidu.com/s/14Yy9isAIZYdU__OYEQGa_g), provided by [DCRNN](https://github.com/liyaguang/DCRNN), and should be put into the corresponding `data/` folder.
+
+The Beijing dataset can be found in this repository under the [/Beijing/data/](Beijing/data) path
