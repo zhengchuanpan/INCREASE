@@ -14,9 +14,9 @@ The in-depth interpretation of this paper is [here](https://mp.weixin.qq.com/s/3
 ![image](figure/result.png)
 
 ## Citation
-@article{DBLP:journals/corr/abs-2302-02738,
-  author    = {Chuanpan Zheng and Xiaoliang Fan and Cheng Wang and Jianzhong Qi and Chaochao Chen and Longbiao Chen},
-  title     = {{INCREASE:} Inductive Graph Representation Learning for Spatio-Temporal Kriging},
+@article{DBLP:journals/corr/abs-2302-02738,  
+  author    = {Chuanpan Zheng and Xiaoliang Fan and Cheng Wang and Jianzhong Qi and Chaochao Chen and Longbiao Chen},  
+  title     = {{INCREASE:} Inductive Graph Representation Learning for Spatio-Temporal Kriging},  
   journal   = {CoRR},
   volume    = {abs/2302.02738},
   year      = {2023},
